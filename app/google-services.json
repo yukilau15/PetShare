@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "821274613842",
+    "firebase_url": "https://petshare-42e90.firebaseio.com",
+    "project_id": "petshare-42e90",
+    "storage_bucket": "petshare-42e90.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:821274613842:android:9d11f5062905639193678b",
+        "android_client_info": {
+          "package_name": "com.example.yuki.petshare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "821274613842-pl5seveumh3uo5c7dep8hn4khfdbaabk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.yuki.petshare",
+            "certificate_hash": "9a61527a02a391cd14c900f9d893000936294645"
+          }
+        },
+        {
+          "client_id": "821274613842-p3e49daaad8dscf1kdmfpa4d687vm01o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8fkiipr6MAfbW8ZCdGDFyjyOwsQ7XXvk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "821274613842-p3e49daaad8dscf1kdmfpa4d687vm01o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
